@@ -1,0 +1,15 @@
+tên dự án : website bán điện thoại
++phân công :
+
+	# ông này làm các việc liên quan đến code, tạo csdl, viết giao diện,...
+	hoàn : 8
+
+	# ông này làm các việc liên quan đến kiểm thử, hiệu năng của hệ thống
+	# là một tester
+	tú : làm 5,6,7
+
+	# ông này làm việc liên quan đến liên lạc với khách hàng
+	trường: 1,2,3
+
+	# Tôi làm các việc liên quan đến quản lý, giám sát tiến độ dự án
+	hiếu: 4,9,10,11
