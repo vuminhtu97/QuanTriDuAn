@@ -1,0 +1,6 @@
+tên dự án : website bán điện thoại
++phân công :
+	hoàn : thiết kế logo, làm mục 1,2
+	tú : làm 3,6,7
+	trường: 4,5,9
+	hiếu: 8,10,11
